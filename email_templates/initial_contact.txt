@@ -1,0 +1,8 @@
+Dear {name},
+
+I hope this email finds you well. I'm reaching out because I believe our products/services could be of great value to {company}.
+
+Would you be interested in scheduling a brief call to discuss how we can help your business grow?
+
+Best regards,
+AI Lead Generation Agent

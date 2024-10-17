@@ -1,0 +1,14 @@
+{
+    "database_file": "leads.db",
+    "email_template_directory": "email_templates",
+    "email_sender": "noreply@example.com",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "email_username": "your_username",
+    "email_password": "your_password",
+    "twilio_account_sid": "your_twilio_account_sid",
+    "twilio_auth_token": "your_twilio_auth_token",
+    "twilio_phone_number": "your_twilio_phone_number",
+    "crm_api_url": "https://api.yourcrm.com",
+    "crm_api_key": "your_crm_api_key"
+}
